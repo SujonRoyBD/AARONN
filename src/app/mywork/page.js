@@ -48,7 +48,7 @@ const Mywork = () => {
         {
             id: 8,
             img: "/aseats/my project/mywork/work8.jpg",
-            title: "maroon",
+            title: "maron",
             desc: "Lake Trevor"
         },
     ]
