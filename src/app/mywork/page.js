@@ -43,7 +43,7 @@ const Mywork = () => {
             id: 7,
             img: "/aseats/my project/mywork/work7.jpg",
             title: "purple",
-            desc: "South Adrienne"
+            desc: "South Adrenne"
         },
         {
             id: 8,
@@ -67,7 +67,7 @@ const Mywork = () => {
                 {
                     data.map((data) => {
                     return <div key={data.id} className={`${data?.id === 5 ? "w-full" : "w-[300px]"} `}>
-                            
+                             
                             <Image src={data.img} alt='work' height={361} width={34} className='w-[5361px] h-[347px]' />
                             <p>{data.title}</p>
                             <p>{data.desc}</p>
