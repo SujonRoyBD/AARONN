@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import React from 'react';
 
-const Lets = () => {
+const Lets = () =>{
     return (
         <div className='px-8 md:px-[150px] mt-16'>
             <div className='grid grid-cols-1 md:grid-cols-5 gap-7'>

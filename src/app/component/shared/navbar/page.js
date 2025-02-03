@@ -5,9 +5,9 @@ import React from 'react';
 const Navbar = () => {
     return (
         <div className='px-[150px] mt-[45px] flex gap-[400px]'>
-           <div>
+           <Link href="/component/home"><div>
             <Image src="/aseats/my project/logo3.png" alt='logo' height={22} width={125} className='text-white'/>
-           </div>
+           </div></Link>
            <div > 
             <ul className='flex gap-7'> 
                 <Link href="/component/home"><li>

@@ -27,7 +27,7 @@ const Contact = () => {
                 <p>+9 0283353</p>
                 <p>info@aaronn.com</p>
             </div>
-        </div>
+        </div>  
     );
 };
 
