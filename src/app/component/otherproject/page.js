@@ -5,7 +5,7 @@ const Otherproject = () => {
     const data =[
         {
             img:"/aseats/projectdetails/other1.png",
-            title:"Logo Project 1",
+            title:"Logo Projects 1",
             desc:"Branding"
         },
         {
@@ -22,7 +22,7 @@ const Otherproject = () => {
     return (
         <div className='grid grid-cols-1 md:grid-cols-3 gap-6'>
            {
-             data.map((index)=>{
+             data.map((index)=> {
                 return <div key={index.id}>
                     <Image src={index.img}alt='about' width={360} height={465}/>
                     <p className='text-xl font-bold'>{index.title}</p>
