@@ -10,7 +10,7 @@ const Otherproject = () => {
         },
         {
             img:"/aseats/projectdetails/other2.png",
-            title:"Logo Project 2",
+            title:"Logo Projects 2",
             desc:"Branding"
         },
         {
