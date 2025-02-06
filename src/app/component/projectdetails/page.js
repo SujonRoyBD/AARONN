@@ -6,7 +6,7 @@ const Projectdetails = () => {
     return (
         <div className='px-5 md:px-[150px]'>
             <h3 className="text-3xl font-bold mt-5">Project Detail</h3>
-            <p className='text-gray-500 mt-3 '>Details About The Porject</p>
+            <p className='text-gray-500 mt-3 '>Details Abouts The Porject</p>
             <hr className='w-full h-3 mt-9'/>
             <div>
                 <Image src="/aseats/projectdetails/about3.png" alt='hand' width={1148} height={636}/>
