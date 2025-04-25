@@ -24,7 +24,7 @@ const Projectdetails = () => {
             <div className='text-gray-500 md:ml-[200px] mt-9'>
                 <h3 className='text-2xl font-bold'>Day One</h3>
                 <p>Everywhere we are haunted by photography in newspapers, magazines, advertisements on television on the Internet, but we still crave even more. </p>
-                <p className='mt-9'>And what helps to achieved a good result? We will look at these issues and some of the possibilities of photography and explain that it is a combination of thought imagination, visual design, technical skills and organizational skills</p>
+                <p className='mt-9'>And what help to achieved a good result? We will look at these issues and some of the possibilities of photography and explain that it is a combination of thought imagination, visual design, technical skills and organizational skills</p>
             </div>
             <Otherproject/>
         </div>
